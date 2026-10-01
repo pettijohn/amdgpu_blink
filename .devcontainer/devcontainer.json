@@ -1,0 +1,8 @@
+{
+  "name": "amdgpu_blink",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "remoteUser": "ubuntu",
+  "updateRemoteUserUID": false
+}
